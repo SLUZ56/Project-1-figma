@@ -1,0 +1,166 @@
+* {  
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+    font-family:'Roboto', sem serifa;
+
+
+    }
+
+a {
+    text-decoration: none;
+
+}
+
+.login {
+    display: block;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 41px;
+    color: basic/black;
+    margin-top: 128px;
+    margin-left: 16px;
+    margin-right: 277px;
+    margin-bottom: 12px;
+    padding-left: 20px;
+    width: 82px;
+    height: 41px;
+    border: none;
+    letter-spacing: 0,41px;
+}
+
+
+
+.forgot-password {
+
+    width: 123px;
+    height: 22px;
+    margin-top: 17px;
+    margin-left: 236px;
+    color: #007AFF;
+    margin-right: 17px;
+    margin-bottom: 68px;
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    align-content: right;
+    border:none;
+    margin-bottom: 20px;
+    margin-right: 16px;
+    text-align: center;
+}
+ 
+ 
+
+ p {
+     display: block;
+     width: 343px;
+     height: 52px;  
+     margin-top: 53px;
+     margin-bottom: 102px;
+     margin-left: 16px;
+     margin-right: 16px;
+     margin-bottom: 102px;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 26px;
+      color: #000000;
+      letter-spacing: 0,41px;
+}
+     
+.paragraph2 {
+    border-width:thin;
+    border-color: rgb(13, 234, 241);
+    border-style: solid;
+    width: 343px;
+    height: 52px;
+    line-height: 25px;
+    color: #000000;
+    text-align: justify;
+    padding-left: 22px;
+    border:none;
+
+}
+
+input {    
+
+    display: block;
+    width: 343px;
+    height: 48px;
+    border-radius: 6px;
+    color: #929292;
+    margin: auto;
+    padding-left: 19px;
+    margin-top: 102px;color: #F2F2F7;
+    margin: 0 auto;
+    border: none;
+    
+
+
+}
+
+
+
+
+.personal-password {
+    margin-top: 21px;
+
+}
+
+a {    
+    display: block;
+    text-align: center;
+    margin-top: 17px;
+    margin-left: 236px;
+    margin-right: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    letter-spacing: -0,41px;
+
+}
+
+button {
+    width: 343px;
+    height: 48px;
+    left: 16px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #0F0F0F;
+
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 22px;
+    color: FFFFFF;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
+.link-end {
+    margin-top: 163px;
+    height: 19px;
+    margin-left: 75px;
+    margin-bottom: 39px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 225px;
+    height: 19px;
+}
+
+
+strong {
+    color:#007AFF; 
+}
+
+
